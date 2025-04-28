@@ -1,7 +1,6 @@
+import Layout from "@/components/layout/Layout";
 import React from "react";
 
-const page = () => {
-  return <div></div>;
-};
+const page = () => <Layout />;
 
 export default page;
